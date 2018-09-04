@@ -1,0 +1,14 @@
+# Site settings
+title: 코딩이랑 무관합니다만
+email: arcuer.dev@gmail.com
+explainMain : "코딩이랑 무관합니다만 페이지 입니다."
+description: > # this means to ignore newlines until "baseurl:"
+  코딩이랑 무관합니다만
+baseurl: "/Read-Only-Jekyll-Theme" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  systemOutConding
+discus-identifier : "demo_reply"
+
+# Build settings
+markdown: kramdown
