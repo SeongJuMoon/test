@@ -1,6 +1,6 @@
 ---
-title: 코딩이란 무관합니다만은 무엇을 하는 커뮤니티 인가요?
-layout: post
+title: 코딩이랑 무관합니다만 운영정책
+layout: section
 ---
 
 문서의 개요
