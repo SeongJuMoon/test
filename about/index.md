@@ -1,6 +1,6 @@
 ---
 title: 코딩이란 무관합니다만은 무엇을 하는 커뮤니티 인가요?
-layout: default
+layout: post
 ---
 
 # 코딩이랑 무관합니다만이란?
@@ -23,3 +23,6 @@ layout: default
 ~~임경안 님~~
 ~~주탈환 님~~
 최주영 님
+
+# 운영정책
+[여기]({% site.baseurl %}/post/policy)에서 확인해주세요
