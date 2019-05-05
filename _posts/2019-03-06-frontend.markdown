@@ -1,0 +1,6 @@
+---
+layout: post
+---
+<!-- <img src="{{ site.baseurl }}/images/pic03.jpg"> -->
+안녕하세요 
+코딩이랑 무관합니다만 에서 하드웨어 특집을 진행합니다.
